@@ -1,0 +1,9 @@
+Building RHFCCoin
+
+See doc/readme-qt.rst for instructions on building RHFCCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RHFCCoin.
+
+See doc/build-*.txt for instructions on building RHFCCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of RHFCCoin.
